@@ -6,7 +6,7 @@ const Info = () => {
     <div className="about__info grid">
         <div className="about__box">
             <HiOutlineDesktopComputer className="about__icon" />
-            <h3 className="about__title">Academic projects Experience</h3>
+            <h3 className="about__title">Academic projects </h3>
             <span className="about__subtitle">3 Years</span>
         </div>
         <div className="about__box">
@@ -16,8 +16,9 @@ const Info = () => {
         </div>
         <div className="about__box">
             <HiOutlineSparkles className="about__icon" />
-            <h3 className="about__title">Support</h3>
-            <span className="about__subtitle">Online 24/7</span>
+            <h3 className="about__title">Backend Development</h3>
+            <span className="about__subtitle">Strong Expertise</span>
+
         </div>
     </div>
   );
